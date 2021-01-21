@@ -6,7 +6,6 @@ public class OtraClase {
 		// TODO Auto-generated method stub
 		System.out.print("Tio te puedes creer que somos codigo de programacion? :O");
 		System.out.print("super yo ;)");
-		
 	}
 
 }
